@@ -1,9 +1,9 @@
 # IR-Remote-Control-and-Receiver
+Projeto de Controle Remoto Via InfraVermelho no Arduino
 
-# Projeto de Controle Remoto Infra Vermelho no Arduino
+_Criado por: Kauan Novello e Caio Barreto_
 
-Este projeto permite que você envie e receba sinais IR utilizando um Arduino. 
-Ele utiliza a biblioteca **IRremote** para capturar e transmitir sinais IR, 
+Este projeto permite que você envie e receba sinais IR utilizando um Arduino. Ele utiliza a biblioteca **IRremote** para capturar e transmitir sinais IR, 
 permitindo tanto enviar comandos de um controle remoto quanto escutar sinais IR para visualização no monitor serial.
 
 ## Componentes
